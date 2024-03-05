@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="menus-list.xsl"?>
-<!DOCTYPE Menus SYSTEM "Menus.dtd">
 
 <Menus>
     <Menu>
@@ -11,4 +10,11 @@
         <end_date>2024-03-31</end_date>
     </Menu>
     
+    <Menu>
+        <id>2</id>
+        <name>Menu 2</name>
+        <description>Description of Menu 2</description>
+        <start_date>2024-04-01</start_date>
+        <end_date>2024-04-30</end_date>
+    </Menu>
 </Menus>
