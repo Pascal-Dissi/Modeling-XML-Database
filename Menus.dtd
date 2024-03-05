@@ -1,0 +1,7 @@
+<!ELEMENT Menus (Menu+)>
+<!ELEMENT Menu (id, name, description, start_date, end_date)>
+<!ATTLIST id CDATA #REQUIRED>
+<!ATTLIST name CDATA #REQUIRED>
+<!ATTLIST description CDATA #IMPLIED>
+<!ATTLIST start_date CDATA #REQUIRED>
+<!ATTLIST end_date CDATA #REQUIRED>
