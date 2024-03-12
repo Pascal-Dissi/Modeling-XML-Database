@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="menus-list.xsl"?>
+<<<<<<< HEAD:Menus/Menus.xml
 <!-- <?xml-stylesheet type="text/xsl" href="../menu_recipes.xsl"?> -->
 <!-- <!DOCTYPE Menus SYSTEM "Menus.dtd"> -->
+=======
+
+>>>>>>> a8c9f7df4c9c138b8318ade31a383d1ed9b21600:Menus.xml
 <Menus>
     <Menu>
         <id>1</id>
@@ -14,8 +18,13 @@
     <Menu>
         <id>2</id>
         <name>Menu 2</name>
+<<<<<<< HEAD:Menus/Menus.xml
         <description>Description of Menu 21</description>
         <start_date></start_date>
+=======
+        <description>Description of Menu 2</description>
+        <start_date>2024-04-01</start_date>
+>>>>>>> a8c9f7df4c9c138b8318ade31a383d1ed9b21600:Menus.xml
         <end_date>2024-04-30</end_date>
     </Menu>
 </Menus>
