@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <!-- Definition of the Ingredients element -->
+    <xs:element name="Ingredients">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Ingredient" minOccurs="0" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="id" type="xs:integer"/>
+                            <xs:element name="name" type="xs:string"/>
+                            <xs:element name="measurement_unit" type="xs:string"/>
+                            <xs:element name="cost" type="xs:decimal"/>
+                            <xs:element name="calories" type="xs:integer"/>
+                            <xs:element name="macronutrient_id" type="xs:integer"/>
+                            <xs:element name="recipe_id" type="xs:integer"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

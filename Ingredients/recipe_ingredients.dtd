@@ -1,0 +1,4 @@
+<!ELEMENT recipe_ingredients (reciped_id, ingredient_id, quantity)>
+<!ELEMENT reciped_id (#PCDATA)>
+<!ELEMENT ingredient_id (#PCDATA)>
+<!ELEMENT quantity (#PCDATA)>

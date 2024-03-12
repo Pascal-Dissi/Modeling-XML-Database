@@ -1,0 +1,3 @@
+<!ELEMENT Ingredient_vitamins (ingredient_id, vitamin_id)>
+<!ELEMENT ingredient_id (#PCDATA)>
+<!ELEMENT vitamin_id (#PCDATA)>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ingredient_macronutrients>
+    <ingredient_id>1</ingredient_id>
+    <macronutrient_id>101</macronutrient_id>
+    <value>10g</value>
+    
+    <ingredient_id>2</ingredient_id>
+    <macronutrient_id>102</macronutrient_id>
+    <value>5g</value>
+    
+    <ingredient_id>3</ingredient_id>
+    <macronutrient_id>103</macronutrient_id>
+    <value>3g</value>
+</Ingredient_macronutrients>

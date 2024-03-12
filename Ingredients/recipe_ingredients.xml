@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe_ingredients SYSTEM "recipe_ingredients.dtd">
+<recipe_ingredients>
+    <recipe_ingredient>
+        <reciped_id>1</reciped_id>
+        <ingredient_id>101</ingredient_id>
+        <quantity>200g</quantity>
+    </recipe_ingredient>
+    <recipe_ingredient>
+        <reciped_id>2</reciped_id>
+        <ingredient_id>102</ingredient_id>
+        <quantity>150g</quantity>
+    </recipe_ingredient>
+    <recipe_ingredient>
+        <reciped_id>3</reciped_id>
+        <ingredient_id>103</ingredient_id>
+        <quantity>300g</quantity>
+    </recipe_ingredient>
+</recipe_ingredients>

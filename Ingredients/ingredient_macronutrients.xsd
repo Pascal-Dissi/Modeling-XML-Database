@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Define element types -->
+  <xs:element name="Ingredient_macronutrients">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="ingredient_id" type="xs:integer"/>
+        <xs:element name="macronutrient_id" type="xs:integer"/>
+        <xs:element name="value" type="xs:decimal"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

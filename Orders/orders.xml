@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Orders SYSTEM "orders.dtd">
+<Orders>
+    <Order>
+        <id>1</id>
+        <customer_id>101</customer_id>
+        <order_date>2024-03-15</order_date>
+        <delivery_date>2024-03-18</delivery_date>
+        <total_amount>50.00</total_amount>
+        <delivery_person_id>201</delivery_person_id>
+        <status value="pending"/>
+    </Order>
+    <Order>
+        <id>2</id>
+        <customer_id>102</customer_id>
+        <order_date>2024-03-16</order_date>
+        <delivery_date>2024-03-20</delivery_date>
+        <total_amount>75.00</total_amount>
+        <delivery_person_id>202</delivery_person_id>
+        <status value="accepted"/>
+    </Order>
+    <Order>
+        <id>3</id>
+        <customer_id>103</customer_id>
+        <order_date>2024-03-17</order_date>
+        <delivery_date>2024-03-21</delivery_date>
+        <total_amount>100.00</total_amount>
+        <delivery_person_id>203</delivery_person_id>
+        <status value="cooking"/>
+    </Order>
+    <Order>
+        <id>4</id>
+        <customer_id>104</customer_id>
+        <order_date>2024-03-18</order_date>
+        <delivery_date>2024-03-22</delivery_date>
+        <total_amount>120.00</total_amount>
+        <delivery_person_id>204</delivery_person_id>
+        <status value="on_delivery"/>
+    </Order>
+    <Order>
+        <id>5</id>
+        <customer_id>105</customer_id>
+        <order_date>2024-03-19</order_date>
+        <delivery_date>2024-03-23</delivery_date>
+        <total_amount>90.00</total_amount>
+        <delivery_person_id>205</delivery_person_id>
+        <status value="completed"/>
+    </Order>
+    <Order>
+        <id>6</id>
+        <customer_id>106</customer_id>
+        <order_date>2024-03-20</order_date>
+        <delivery_date>2024-03-24</delivery_date>
+        <total_amount>60.00</total_amount>
+        <delivery_person_id>206</delivery_person_id>
+        <status value="cancelled"/>
+    </Order>
+</Orders>

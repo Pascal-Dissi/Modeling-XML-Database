@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Ingredient_oligoelements SYSTEM "ingredient_oligoelements.dtd">
+
+<Ingredient_oligoelements>
+    <ingredient_id>1</ingredient_id>
+    <oligoelement_id>1</oligoelement_id>
+    
+    <ingredient_id>2</ingredient_id>
+    <oligoelement_id>3</oligoelement_id>
+    
+    <ingredient_id>3</ingredient_id>
+    <oligoelement_id>2</oligoelement_id>
+</Ingredient_oligoelements>

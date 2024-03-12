@@ -1,0 +1,6 @@
+<!ELEMENT order_Items (order_Item+)>
+<!ELEMENT order_Item (order_id, recipe_id, quantity, price)>
+<!ELEMENT order_id (#PCDATA)>
+<!ELEMENT recipe_id (#PCDATA)>
+<!ELEMENT quantity (#PCDATA)>
+<!ELEMENT price (#PCDATA)>

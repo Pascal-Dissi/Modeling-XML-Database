@@ -1,0 +1,7 @@
+<!DOCTYPE macroelements [
+    <!ELEMENT macroelements (macroelement*)>
+    <!ELEMENT macroelement (id, name, description)>
+    <!ELEMENT id (#PCDATA)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT description (#PCDATA)>
+]>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Vitamins SYSTEM "vitamins.dtd">
+<Vitamins>
+    <Vitamin>
+        <id>1</id>
+        <name>Vitamin A</name>
+        <description>Supports vision, immune function, and skin health.</description>
+    </Vitamin>
+    <Vitamin>
+        <id>2</id>
+        <name>Vitamin C</name>
+        <description>An antioxidant that supports the immune system and collagen production.</description>
+    </Vitamin>
+    <Vitamin>
+        <id>3</id>
+        <name>Vitamin D</name>
+        <description>Regulates calcium and phosphate levels in the body, supporting bone health and immunity.</description>
+    </Vitamin>
+    <Vitamin>
+        <id>4</id>
+        <name>Vitamin E</name>
+        <description>An antioxidant that protects cells from damage and supports immune function.</description>
+    </Vitamin>
+    <Vitamin>
+        <id>5</id>
+        <name>Vitamin K</name>
+        <description>Important for blood clotting and bone metabolism.</description>
+    </Vitamin>
+    <Vitamin>
+        <id>6</id>
+        <name>Vitamin B12</name>
+        <description>Essential for red blood cell formation, neurological function, and DNA synthesis.</description>
+    </Vitamin>
+</Vitamins>

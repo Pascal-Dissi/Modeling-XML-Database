@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="categories.xsl"?>
+<categories>
+    <category>
+        <id>1</id>
+        <name>Dairy</name>
+        <description>Products derived from milk, such as cheese, yogurt, and butter.</description>
+    </category>
+    <category>
+        <id>2</id>
+        <name>Meat</name>
+        <description>Animal flesh and muscle, typically used as food.</description>
+    </category>
+    <category>
+        <id>3</id>
+        <name>Vegetables</name>
+        <description>Edible plants or parts of plants, typically consumed as part of a meal.</description>
+    </category>
+    <category>
+        <id>4</id>
+        <name>Spices</name>
+        <description>Aromatic or pungent substances used to flavor food.</description>
+    </category>
+</categories>

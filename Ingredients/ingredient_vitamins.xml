@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Ingredient_vitamins SYSTEM "Ingredient_vitamins.dtd">
+<Ingredient_vitamins>
+    <Ingredient_vitamin>
+        <ingredient_id>1</ingredient_id>
+        <vitamin_id>101</vitamin_id>
+    </Ingredient_vitamin>
+    <Ingredient_vitamin>
+        <ingredient_id>2</ingredient_id>
+        <vitamin_id>102</vitamin_id>
+    </Ingredient_vitamin>
+    <Ingredient_vitamin>
+        <ingredient_id>3</ingredient_id>
+        <vitamin_id>103</vitamin_id>
+    </Ingredient_vitamin>
+</Ingredient_vitamins>

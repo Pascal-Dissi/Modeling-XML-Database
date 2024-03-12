@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="menu_recipes.xsl"?>
+<Menu_recipes>
+    <menu_recipe>
+        <menu_id>1</menu_id>
+        <recipe_id>1</recipe_id>
+    </menu_recipe>
+    <menu_recipe>
+        <menu_id>1</menu_id>
+        <recipe_id>2</recipe_id>
+    </menu_recipe>
+    <menu_recipe>
+        <menu_id>2</menu_id>
+        <recipe_id>3</recipe_id>
+    </menu_recipe>
+</Menu_recipes>

@@ -1,0 +1,5 @@
+<!ELEMENT Vitamins (Vitamin+)>
+<!ELEMENT Vitamin (id, name, description)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT description (#PCDATA)>

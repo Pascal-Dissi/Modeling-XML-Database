@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Delivery_persons SYSTEM "delivery_persons.dtd">
+<Delivery_persons>
+    <Delivery_person>
+        <id>1</id>
+        <name>John Doe</name>
+        <contact>123-456-7890</contact>
+        <vehicule_type>car</vehicule_type>
+        <availability>available</availability>
+        <vehicule_number>ABC123</vehicule_number>
+        <current_location>123 Main Street</current_location>
+    </Delivery_person>
+    <Delivery_person>
+        <id>2</id>
+        <name>Jane Smith</name>
+        <contact>987-654-3210</contact>
+        <vehicule_type>bike</vehicule_type>
+        <availability>unavailable</availability>
+        <vehicule_number>XYZ456</vehicule_number>
+        <current_location>456 Elm Street</current_location>
+    </Delivery_person>
+    <Delivery_person>
+        <id>3</id>
+        <name>Michael Johnson</name>
+        <contact>555-555-5555</contact>
+        <vehicule_type>scooter</vehicule_type>
+        <availability>available</availability>
+        <vehicule_number>PQR789</vehicule_number>
+        <current_location>789 Oak Avenue</current_location>
+    </Delivery_person>
+    <Delivery_person>
+        <id>4</id>
+        <name>Sarah Williams</name>
+        <contact>111-222-3333</contact>
+        <vehicule_type>car</vehicule_type>
+        <availability>available</availability>
+        <vehicule_number>DEF456</vehicule_number>
+        <current_location>321 Maple Road</current_location>
+    </Delivery_person>
+    <Delivery_person>
+        <id>5</id>
+        <name>Chris Brown</name>
+        <contact>444-444-4444</contact>
+        <vehicule_type>scooter</vehicule_type>
+        <availability>unavailable</availability>
+        <vehicule_number>MNO123</vehicule_number>
+        <current_location>555 Pine Lane</current_location>
+    </Delivery_person>
+</Delivery_persons>

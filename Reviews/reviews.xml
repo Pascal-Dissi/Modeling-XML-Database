@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reviews SYSTEM "reviews.dtd">
+<reviews>
+    <review>
+        <id>1</id>
+        <customer_id>101</customer_id>
+        <recipe_id>201</recipe_id>
+        <rating>4.5</rating>
+        <comment>Delicious dish!</comment>
+        <review_date>2024-03-15</review_date>
+    </review>
+    <review>
+        <id>2</id>
+        <customer_id>102</customer_id>
+        <recipe_id>202</recipe_id>
+        <rating>5.0</rating>
+        <comment>Excellent recipe!</comment>
+        <review_date>2024-03-16</review_date>
+    </review>
+    <review>
+        <id>3</id>
+        <customer_id>103</customer_id>
+        <recipe_id>203</recipe_id>
+        <rating>3.8</rating>
+        <comment>Could be better.</comment>
+        <review_date>2024-03-17</review_date>
+    </review>
+</reviews>

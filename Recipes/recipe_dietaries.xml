@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe_dietaries>
+<recipe_dietarie>
+    <recipe_id>1</recipe_id>
+    <dietary_id>101</dietary_id>
+</recipe_dietarie>
+<recipe_dietarie>
+    <recipe_id>2</recipe_id>
+    <dietary_id>102</dietary_id>
+</recipe_dietarie>
+<recipe_dietarie>
+    <recipe_id>3</recipe_id>
+    <dietary_id>103</dietary_id>
+</recipe_dietarie>
+</recipe_dietaries>

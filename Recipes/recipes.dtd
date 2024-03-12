@@ -1,0 +1,14 @@
+<!DOCTYPE recipes [
+    <!ELEMENT recipes (recipe+)>
+    <!ELEMENT recipe (id, name, preparation_time, cooking_time, description, difficulty_level, serving_size, cooking_instructions, budgetcategory_id, category_id)>
+    <!ELEMENT id (#PCDATA)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT preparation_time (#PCDATA)>
+    <!ELEMENT cooking_time (#PCDATA)>
+    <!ELEMENT description (#PCDATA)>
+    <!ELEMENT difficulty_level (#PCDATA)>
+    <!ELEMENT serving_size (#PCDATA)>
+    <!ELEMENT cooking_instructions (#PCDATA)>
+    <!ELEMENT budgetcategory_id (#PCDATA)>
+    <!ELEMENT category_id (#PCDATA)>
+]>

@@ -1,0 +1,3 @@
+<!ELEMENT ingredient_macroelements (ingredient_id, macroelement_id)>
+<!ELEMENT ingredient_id (#PCDATA)>
+<!ELEMENT macroelement_id (#PCDATA)>

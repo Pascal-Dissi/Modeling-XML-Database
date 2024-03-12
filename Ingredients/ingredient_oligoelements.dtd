@@ -1,0 +1,3 @@
+<!ELEMENT Ingredient_oligoelements (ingredient_id, oligoelement_id)>
+<!ELEMENT ingredient_id (#PCDATA)>
+<!ELEMENT oligoelement_id (#PCDATA)>

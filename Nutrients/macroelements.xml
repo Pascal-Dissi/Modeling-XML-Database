@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE macroelements SYSTEM "macroelements.dtd">
+<macroelements>
+    <macroelement>
+        <id>1</id>
+        <name>Calcium</name>
+        <description>Essential mineral for bone health and muscle function.</description>
+    </macroelement>
+    <macroelement>
+        <id>2</id>
+        <name>Chlorine</name>
+        <description>Electrolyte important for fluid balance and digestion.</description>
+    </macroelement>
+    <macroelement>
+        <id>3</id>
+        <name>Magnesium</name>
+        <description>Involved in hundreds of biochemical reactions in the body, including energy production and muscle function.</description>
+    </macroelement>
+    <macroelement>
+        <id>4</id>
+        <name>Phosphorus</name>
+        <description>Essential for bone health, energy metabolism, and DNA synthesis.</description>
+    </macroelement>
+    <macroelement>
+        <id>5</id>
+        <name>Potassium</name>
+        <description>Important for heart health, muscle function, and electrolyte balance.</description>
+    </macroelement>
+    <macroelement>
+        <id>6</id>
+        <name>Sodium</name>
+        <description>Electrolyte critical for maintaining fluid balance, nerve function, and muscle contraction.</description>
+    </macroelement>
+</macroelements>

@@ -1,0 +1,12 @@
+<!ELEMENT Orders (Order+)>
+
+<!ELEMENT Order (id, customer_id, order_date, delivery_date, total_amount, delivery_person_id, status)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT customer_id (#PCDATA)>
+<!ELEMENT order_date (#PCDATA)>
+<!ELEMENT delivery_date (#PCDATA)>
+<!ELEMENT total_amount (#PCDATA)>
+<!ELEMENT delivery_person_id (#PCDATA)>
+<!ELEMENT status (#PCDATA)>
+<!ATTLIST status
+          value (pending | accepted | cooking | on_delivery | completed | cancelled) #REQUIRED>

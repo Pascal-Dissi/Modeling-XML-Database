@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Customers SYSTEM "customers.dtd">
+<Customers>
+    <Customer>
+        <id>1</id>
+        <firstname>John</firstname>
+        <lastname>Doe</lastname>
+        <email>john.doe@example.com</email>
+        <phone>1234567890</phone>
+        <address>123 Main St, Anytown, USA</address>
+    </Customer>
+    <Customer>
+        <id>2</id>
+        <firstname>Alice</firstname>
+        <lastname>Smith</lastname>
+        <email>alice.smith@example.com</email>
+        <phone>9876543210</phone>
+        <address>456 Elm St, Othertown, USA</address>
+    </Customer>
+    <Customer>
+        <id>3</id>
+        <firstname>Michael</firstname>
+        <lastname>Johnson</lastname>
+        <email>michael.johnson@example.com</email>
+        <phone>5551234567</phone>
+        <address>789 Oak St, Somewhere, USA</address>
+    </Customer>
+    <Customer>
+        <id>4</id>
+        <firstname>Sarah</firstname>
+        <lastname>Williams</lastname>
+        <email>sarah.williams@example.com</email>
+        <phone>4449876543</phone>
+        <address>101 Pine St, Nowhere, USA</address>
+    </Customer>
+    <Customer>
+        <id>5</id>
+        <firstname>David</firstname>
+        <lastname>Brown</lastname>
+        <email>david.brown@example.com</email>
+        <phone>1112223333</phone>
+        <address>222 Cedar St, Anywhere, USA</address>
+    </Customer>
+    <Customer>
+        <id>6</id>
+        <firstname>Emily</firstname>
+        <lastname>Miller</lastname>
+        <email>emily.miller@example.com</email>
+        <phone>3334445555</phone>
+        <address>333 Maple St, Noway, USA</address>
+    </Customer>
+</Customers>

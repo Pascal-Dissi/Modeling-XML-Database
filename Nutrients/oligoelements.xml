@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE oligoelements SYSTEM "oligoelements.dtd">
+<oligoelements>
+    <oligoelement>
+        <id>1</id>
+        <name>Iron</name>
+        <description>Essential for transporting oxygen in the blood.</description>
+    </oligoelement>
+    <oligoelement>
+        <id>2</id>
+        <name>Zinc</name>
+        <description>Important for growth and development, immune system, and wound healing.</description>
+    </oligoelement>
+    <oligoelement>
+        <id>3</id>
+        <name>Copper</name>
+        <description>Necessary for the formation of red blood cells, nervous and immune system health.</description>
+    </oligoelement>
+    <oligoelement>
+        <id>4</id>
+        <name>Manganese</name>
+        <description>Participates in nutrient metabolism and formation of connective tissues.</description>
+    </oligoelement>
+    <oligoelement>
+        <id>5</id>
+        <name>Iodine</name>
+        <description>Essential for the production of thyroid hormones that regulate metabolism.</description>
+    </oligoelement>
+</oligoelements>

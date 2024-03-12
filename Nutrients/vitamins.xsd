@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Definition of the Vitamins element -->
+  <xsd:element name="Vitamins">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element name="Vitamin" maxOccurs="unbounded">
+          <xsd:complexType>
+            <xsd:sequence>
+              <xsd:element name="id" type="xsd:integer"/>
+              <xsd:element name="name" type="xsd:string"/>
+              <xsd:element name="description" type="xsd:string"/>
+            </xsd:sequence>
+          </xsd:complexType>
+        </xsd:element>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+
+</xsd:schema>

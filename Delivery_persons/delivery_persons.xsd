@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Define element Delivery_persons -->
+  <xs:element name="Delivery_persons">
+    <xs:complexType>
+      <xs:sequence>
+        <!-- Define sub-elements -->
+        <xs:element name="Delivery_person" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <!-- Define attributes and elements -->
+              <xs:element name="id" type="xs:integer"/>
+              <xs:element name="name" type="xs:string"/>
+              <xs:element name="contact" type="xs:string"/>
+              <xs:element name="vehicule_type">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:enumeration value="car"/>
+                    <xs:enumeration value="bike"/>
+                    <xs:enumeration value="scooter"/>
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="availability" type="xs:boolean"/>
+              <xs:element name="vehicule_number" type="xs:string"/>
+              <xs:element name="current_location" type="xs:string"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

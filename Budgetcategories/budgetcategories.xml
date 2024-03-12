@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="budgetcategories.xsl"?>
+<budgetcategories>
+    <category>
+        <id>1</id>
+        <name>Budget-Friendly</name>
+        <description>Offers good value for the price; affordable.</description>
+    </category>
+    <category>
+        <id>2</id>
+        <name>Economical</name>
+        <description>Designed to be inexpensive; cost-effective.</description>
+    </category>
+    <category>
+        <id>3</id>
+        <name>Low-Cost</name>
+        <description>Available at a relatively low price; inexpensive.</description>
+    </category>
+</budgetcategories>

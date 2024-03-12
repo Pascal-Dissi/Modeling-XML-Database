@@ -1,0 +1,7 @@
+<!DOCTYPE categories [
+    <!ELEMENT categories (category+)>
+    <!ELEMENT category (id, name, description)>
+    <!ELEMENT id (#PCDATA)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT description (#PCDATA)>
+]>

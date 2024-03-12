@@ -1,0 +1,5 @@
+<!ELEMENT oligoelements (oligoelement+)>
+<!ELEMENT oligoelement (id, name, description)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT description (#PCDATA)>

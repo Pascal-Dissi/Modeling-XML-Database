@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <!-- Define the order_Items element -->
+    <xs:element name="order_Items">
+        <xs:complexType>
+            <xs:sequence>
+                <!-- Define the order_Item element -->
+                <xs:element name="order_Item" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <!-- Define the elements for order_Item -->
+                            <xs:element name="order_id" type="xs:integer"/>
+                            <xs:element name="recipe_id" type="xs:integer"/>
+                            <xs:element name="quantity" type="xs:integer"/>
+                            <xs:element name="price" type="xs:decimal"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

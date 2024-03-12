@@ -1,0 +1,4 @@
+<!ELEMENT Ingredient_macronutrients (ingredient_id, macronutrient_id, value)>
+<!ELEMENT ingredient_id (#PCDATA)>
+<!ELEMENT macronutrient_id (#PCDATA)>
+<!ELEMENT value (#PCDATA)>

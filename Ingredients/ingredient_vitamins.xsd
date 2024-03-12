@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Define element types -->
+  <xs:element name="Ingredient_vitamins">
+    <xs:complexType>
+      <xs:sequence>
+        <!-- Define subelements -->
+        <xs:element name="ingredient_id" type="xs:integer"/>
+        <xs:element name="vitamin_id" type="xs:integer"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

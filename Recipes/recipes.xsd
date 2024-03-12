@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <!-- Definition of the element types -->
+    <xs:element name="recipes">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="recipe" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="id" type="xs:string"/>
+                            <xs:element name="name" type="xs:string"/>
+                            <xs:element name="preparation_time" type="xs:string"/>
+                            <xs:element name="cooking_time" type="xs:string"/>
+                            <xs:element name="description" type="xs:string"/>
+                            <xs:element name="difficulty_level" type="xs:string"/>
+                            <xs:element name="serving_size" type="xs:string"/>
+                            <xs:element name="cooking_instructions" type="xs:string"/>
+                            <xs:element name="budgetcategory_id" type="xs:string"/>
+                            <xs:element name="category_id" type="xs:string"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Definition of the recipe_ingredients element -->
+  <xs:element name="recipe_ingredients">
+    <xs:complexType>
+      <xs:sequence>
+        <!-- Definition of the reciped_id element -->
+        <xs:element name="reciped_id" type="xs:integer"/>
+        <!-- Definition of the ingredient_id element -->
+        <xs:element name="ingredient_id" type="xs:integer"/>
+        <!-- Definition of the quantity element -->
+        <xs:element name="quantity" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

@@ -1,0 +1,8 @@
+<!DOCTYPE Menu_recipes [
+    <!ELEMENT Menu_recipes (menu_recipe+)>
+    <!ELEMENT menu_recipe (menu_id, recipe_id)>
+    <!ELEMENT menu_id (#PCDATA)>
+    <!ELEMENT recipe_id (#PCDATA)>
+    <!ATTLIST menu_id foreignkey (true|false) "true">
+    <!ATTLIST recipe_id foreignkey (true|false) "true">
+]>

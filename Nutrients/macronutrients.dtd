@@ -1,0 +1,5 @@
+<!ELEMENT macronutrients (macronutrient*)>
+<!ELEMENT macronutrient (id, name, description)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT description (#PCDATA)>

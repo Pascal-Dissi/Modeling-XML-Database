@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="dietaries.xsl"?>
+<!-- <!DOCTYPE dietaries SYSTEM "dietaries.dtd"> -->
+<dietaries>
+    <dietary>
+        <id>1</id>
+        <name>Vegetarian</name>
+        <description>Diet that excludes meat, poultry, and fish.</description>
+    </dietary>
+    <dietary>
+        <id>2</id>
+        <name>Gluten-free</name>
+        <description>Diet that excludes gluten-containing grains like wheat, barley, and rye.</description>
+    </dietary>
+    <dietary>
+        <id>3</id>
+        <name>High-protein</name>
+        <description>Diet that focuses on consuming a high amount of protein, often for muscle building or weight loss.</description>
+    </dietary>
+</dietaries>

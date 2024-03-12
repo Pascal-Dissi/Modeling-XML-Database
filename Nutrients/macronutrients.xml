@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<macronutrients>
+    <macronutrient>
+        <id>1</id>
+        <name>Carbohydrates</name>
+        <description>Primary source of energy for the body.</description>
+    </macronutrient>
+    <macronutrient>
+        <id>2</id>
+        <name>Proteins</name>
+        <description>Essential for building and repairing tissues in the body.</description>
+    </macronutrient>
+    <macronutrient>
+        <id>3</id>
+        <name>Fats</name>
+        <description>Important for energy storage and absorption of certain vitamins.</description>
+    </macronutrient>
+</macronutrients>

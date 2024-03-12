@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <!-- Definition of the recipe_dietaries element -->
+    <xs:element name="recipe_dietaries">
+        <xs:complexType>
+            <xs:sequence>
+                <!-- Define the recipe_id element as a reference to a recipe -->
+                <xs:element name="recipe_id" type="xs:integer"/>
+                <!-- Define the dietary_id element as a reference to a dietary -->
+                <xs:element name="dietary_id" type="xs:integer"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

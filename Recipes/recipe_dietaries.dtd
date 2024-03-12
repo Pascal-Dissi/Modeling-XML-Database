@@ -1,0 +1,3 @@
+<!ELEMENT recipe_dietaries (recipe_id, dietary_id)>
+<!ELEMENT recipe_id (#PCDATA)>
+<!ELEMENT dietary_id (#PCDATA)>

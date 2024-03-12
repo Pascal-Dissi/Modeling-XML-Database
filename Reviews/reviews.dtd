@@ -1,0 +1,8 @@
+<!ELEMENT reviews (review+)>
+<!ELEMENT review (id, customer_id, recipe_id, rating, comment, review_date)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT customer_id (#PCDATA)>
+<!ELEMENT recipe_id (#PCDATA)>
+<!ELEMENT rating (#PCDATA)>
+<!ELEMENT comment (#PCDATA)>
+<!ELEMENT review_date (#PCDATA)>

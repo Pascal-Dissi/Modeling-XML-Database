@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Ingredients SYSTEM "ingredients.dtd">
+<Ingredients>
+    <Ingredient>
+        <id>1</id>
+        <name>Flour</name>
+        <measurement_unit>grams</measurement_unit>
+        <cost>1.50</cost>
+        <calories>455</calories>
+        <macronutrient_id>1</macronutrient_id>
+        <recipe_id>101</recipe_id>
+    </Ingredient>
+    <Ingredient>
+        <id>2</id>
+        <name>Sugar</name>
+        <measurement_unit>teaspoon</measurement_unit>
+        <cost>0.25</cost>
+        <calories>16</calories>
+        <macronutrient_id>2</macronutrient_id>
+        <recipe_id>102</recipe_id>
+    </Ingredient>
+    <Ingredient>
+        <id>3</id>
+        <name>Eggs</name>
+        <measurement_unit>pieces</measurement_unit>
+        <cost>0.75</cost>
+        <calories>78</calories>
+        <macronutrient_id>3</macronutrient_id>
+        <recipe_id>103</recipe_id>
+    </Ingredient>
+    <Ingredient>
+        <id>4</id>
+        <name>Milk</name>
+        <measurement_unit>cups</measurement_unit>
+        <cost>1.20</cost>
+        <calories>103</calories>
+        <macronutrient_id>4</macronutrient_id>
+        <recipe_id>104</recipe_id>
+    </Ingredient>
+    <Ingredient>
+        <id>5</id>
+        <name>Butter</name>
+        <measurement_unit>tablespoons</measurement_unit>
+        <cost>0.50</cost>
+        <calories>102</calories>
+        <macronutrient_id>5</macronutrient_id>
+        <recipe_id>105</recipe_id>
+    </Ingredient>
+</Ingredients>

@@ -1,0 +1,9 @@
+<!ELEMENT Ingredients (Ingredient*)>
+<!ELEMENT Ingredient (id, name, measurement_unit, cost, calories, macronutrient_id, recipe_id)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT measurement_unit (#PCDATA)>
+<!ELEMENT cost (#PCDATA)>
+<!ELEMENT calories (#PCDATA)>
+<!ELEMENT macronutrient_id (#PCDATA)>
+<!ELEMENT recipe_id (#PCDATA)>
