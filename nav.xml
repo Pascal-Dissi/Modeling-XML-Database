@@ -1,0 +1,18 @@
+<root>
+    <content>
+        <![CDATA[
+            <nav>
+                <ul>
+                    <li><a href="#">HomeA</a></li>
+                    <li><a href="">Recipes</a></li>
+                    <li><a href="/Menus/Menus.xml">Menus</a></li>
+                    <li><a href="#">Ingredients</a></li>
+                    <li><a href="/Customers/Customers.xml">Orders</a></li>
+                    <li><a href="#">Reviews</a></li>
+                    <li><a href="#">Delivery People</a></li>
+                </ul>
+            </nav>
+        ]]>
+    </content>
+   
+</root>

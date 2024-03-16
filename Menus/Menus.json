@@ -1,0 +1,42 @@
+
+{"Menus": {
+    "xsi:noNamespaceSchemaLocation": "Menus.xsd",
+    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "Menu": [
+        {
+            "end_date": "2022-06-30",
+            "name": "Dinner Menu",
+            "description": "Delicious dinner options for the whole family",
+            "id": 1,
+            "start_date": "2022-06-01"
+        },
+        {
+            "end_date": "2022-07-31",
+            "name": "Vegetarian Delights",
+            "description": "Healthy and flavorful vegetarian dishes",
+            "id": 2,
+            "start_date": "2022-07-01"
+        },
+        {
+            "end_date": "2022-08-31",
+            "name": "Summer BBQ",
+            "description": "Sizzling BBQ recipes perfect for summer gatherings",
+            "id": 3,
+            "start_date": "2022-08-01"
+        },
+        {
+            "end_date": "2022-09-30",
+            "name": "Italian Feast",
+            "description": "Authentic Italian dishes to transport you to Italy",
+            "id": 4,
+            "start_date": "2022-09-01"
+        },
+        {
+            "end_date": "2022-12-31",
+            "name": "Holiday Extravaganza",
+            "description": "Festive recipes to celebrate the holiday season",
+            "id": 5,
+            "start_date": "2022-12-01"
+        }
+    ]
+}}

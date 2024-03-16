@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="delivery_persons.xsl"?>
 <!DOCTYPE Delivery_persons SYSTEM "delivery_persons.dtd">
 <Delivery_persons>
     <Delivery_person>

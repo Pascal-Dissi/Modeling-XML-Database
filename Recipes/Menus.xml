@@ -5,17 +5,43 @@
 <Menus>
     <Menu>
         <id>1</id>
-        <name>Menu 1</name>
-        <description>Description of Menu 1</description>
-        <start_date>2024-03-01</start_date>
-        <end_date>2024-03-31</end_date>
+        <name>Dinner Menu</name>
+        <description>Delicious dinner options for the whole family</description>
+        <start_date>2022-06-01</start_date>
+        <end_date>2022-06-30</end_date>
     </Menu>
+    
     
     <Menu>
         <id>2</id>
-        <name>Menu 2</name>
-        <description>Description of Menu 21</description>
-        <start_date></start_date>
-        <end_date>2024-04-30</end_date>
+        <name>Vegetarian Delights</name>
+        <description>Healthy and flavorful vegetarian dishes</description>
+        <start_date>2022-07-01</start_date>
+        <end_date>2022-07-31</end_date>
     </Menu>
+
+    <Menu>
+        <id>3</id>
+        <name>Summer BBQ</name>
+        <description>Sizzling BBQ recipes perfect for summer gatherings</description>
+        <start_date>2022-08-01</start_date>
+        <end_date>2022-08-31</end_date>
+    </Menu>
+    
+    <Menu>
+        <id>4</id>
+        <name>Italian Feast</name>
+        <description>Authentic Italian dishes to transport you to Italy</description>
+        <start_date>2022-09-01</start_date>
+        <end_date>2022-09-30</end_date>
+    </Menu>
+    
+    <Menu>
+        <id>5</id>
+        <name>Holiday Extravaganza</name>
+        <description>Festive recipes to celebrate the holiday season</description>
+        <start_date>2022-12-01</start_date>
+        <end_date>2022-12-31</end_date>
+    </Menu>    
+    
 </Menus>

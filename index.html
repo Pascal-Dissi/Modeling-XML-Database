@@ -3,27 +3,29 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Recipe Box Company</title>
-    <link rel="stylesheet" href="CSS/styles.css">
+    <link rel="stylesheet" href="CSS/styles.css"/>
 </head>
 
 <body>
     <header>
         <h1>Recipe Box Company</h1>
     </header>
-    <nav>
-        <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">Recipes</a></li>
-            <li><a href="#">Menus</a></li>
-            <li><a href="#">Ingredients</a></li>
-            <li><a href="#">Orders</a></li>
-            <li><a href="#">Reviews</a></li>
-            <li><a href="#">Delivery People</a></li>
-        </ul>
-    </nav>
+    
+    <div id="includedContent"></div>
 
+    <script>
+        // Fetch the content of the HTML file
+        fetch('nav.html')
+            .then(response => response.text())
+            .then(html => {
+                // Inject the HTML content into the specified div
+                document.getElementById('includedContent').innerHTML = html;
+            })
+            .catch(error => console.error('Error fetching HTML file:', error));
+    </script>
+    
     <div class="container">
         <h2>Menu List</h2>
 
